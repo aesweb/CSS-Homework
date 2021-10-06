@@ -1,0 +1,46 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.navbar h1 {
+    color: black;
+    font-size: 30px;
+}
+
+.navbar a{
+    padding: 5px;
+    font-size: 17px;
+    color: MediumSlateBlue;
+}
+
+.article {
+    text-align: center;
+    list-style-position: inside
+}
+
+.article  h3{
+    color: goldenrod;
+    
+}
+
+.products {
+   padding-top: 20px;
+}
+
+.productarticle{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.productarticle li {
+    padding-bottom: 40px;
+}
+
+.productarticle img {
+    width: 200px;
+}
